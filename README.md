@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litesharma&label=Profile%20views&color=0e75b6&style=flat" alt="litesharma" /> </p>
 
-- 🌱 I’m currently learning **Numpy**
+- 🌱 I’m currently learning **Numpy and DSA**
 
 - 💬 Ask me about **Python, Data Science, or study tips!**
 
